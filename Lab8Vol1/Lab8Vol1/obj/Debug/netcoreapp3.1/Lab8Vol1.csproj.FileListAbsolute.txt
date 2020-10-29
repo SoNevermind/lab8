@@ -1,0 +1,12 @@
+/Users/nevernimdpieceofshit/Projects/Lab8Vol1/Lab8Vol1/bin/Debug/netcoreapp3.1/Lab8Vol1.deps.json
+/Users/nevernimdpieceofshit/Projects/Lab8Vol1/Lab8Vol1/bin/Debug/netcoreapp3.1/Lab8Vol1.runtimeconfig.json
+/Users/nevernimdpieceofshit/Projects/Lab8Vol1/Lab8Vol1/bin/Debug/netcoreapp3.1/Lab8Vol1.runtimeconfig.dev.json
+/Users/nevernimdpieceofshit/Projects/Lab8Vol1/Lab8Vol1/bin/Debug/netcoreapp3.1/Lab8Vol1.dll
+/Users/nevernimdpieceofshit/Projects/Lab8Vol1/Lab8Vol1/bin/Debug/netcoreapp3.1/Lab8Vol1.pdb
+/Users/nevernimdpieceofshit/Projects/Lab8Vol1/Lab8Vol1/obj/Debug/netcoreapp3.1/Lab8Vol1.csprojAssemblyReference.cache
+/Users/nevernimdpieceofshit/Projects/Lab8Vol1/Lab8Vol1/obj/Debug/netcoreapp3.1/Lab8Vol1.AssemblyInfoInputs.cache
+/Users/nevernimdpieceofshit/Projects/Lab8Vol1/Lab8Vol1/obj/Debug/netcoreapp3.1/Lab8Vol1.AssemblyInfo.cs
+/Users/nevernimdpieceofshit/Projects/Lab8Vol1/Lab8Vol1/obj/Debug/netcoreapp3.1/Lab8Vol1.csproj.CoreCompileInputs.cache
+/Users/nevernimdpieceofshit/Projects/Lab8Vol1/Lab8Vol1/obj/Debug/netcoreapp3.1/Lab8Vol1.dll
+/Users/nevernimdpieceofshit/Projects/Lab8Vol1/Lab8Vol1/obj/Debug/netcoreapp3.1/Lab8Vol1.pdb
+/Users/nevernimdpieceofshit/Projects/Lab8Vol1/Lab8Vol1/obj/Debug/netcoreapp3.1/Lab8Vol1.genruntimeconfig.cache
